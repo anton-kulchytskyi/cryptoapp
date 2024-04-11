@@ -7,6 +7,7 @@ A simple cryptocurrency tracking app built with React and Vite.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshots](#screenshot)
 
 ## Installation
 
@@ -14,31 +15,23 @@ To install the project, follow these steps:
 
 1.  Clone the repository using the following command:
 
-Copy code
-
 ```
 git clone https://github.com/anton-kulchytskyi/cryptoapp.git
 ```
 
-1.  Navigate to the project directory:
-
-Copy code
+2.  Navigate to the project directory:
 
 ```
 cd crypto-app
 ```
 
-1.  Install the dependencies using npm:
-
-Copy code
+3.  Install the dependencies using npm:
 
 ```
 npm i
 ```
 
-1.  Start the project:
-
-Copy code
+4.  Start the project:
 
 ```
 npm run dev
@@ -47,8 +40,6 @@ npm run dev
 Alternatively, you can fork the repository and then clone it to your local machine. This will allow you to make changes to the project without affecting the original repository.
 
 To fork the repository, click the "Fork" button at the top of the repository page on GitHub. Then, clone the forked repository using the following command:
-
-Copy code
 
 ```
 git clone https://github.com/anton-kulchytskyi/cryptoapp.git
@@ -71,3 +62,10 @@ I welcome contributions to this project! If you would like to contribute, please
 3.  Make your changes and commit them.
 4.  Push your changes to your forked repository.
 5.  Create a pull request.
+
+## Screenshots
+
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_1.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_2.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_3.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_4.png)

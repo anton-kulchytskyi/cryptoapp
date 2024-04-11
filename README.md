@@ -7,7 +7,7 @@ A simple cryptocurrency tracking app built with React and Vite.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Screenshots](#screenshot)
+- [Screenshots](#screenshots)
 
 ## Installation
 
@@ -65,7 +65,7 @@ I welcome contributions to this project! If you would like to contribute, please
 
 ## Screenshots
 
-![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_1.png)
-![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_2.png)
-![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_3.png)
-![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/img_4.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/srceenshots/img_1.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/srceenshots/img_2.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/srceenshots/img_3.png)
+![Crypto App Screenshot](https://github.com/anton-kulchytskyi/cryptoapp//tree/main/public/srceenshots/img_4.png)
